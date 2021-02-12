@@ -46,7 +46,7 @@ highlight_theme: default
 
 #### index post is expanding or not 
 index:
-  expand: true           ## default is unexpanding,so you can only see the short description of each post.
+  expand: false           ## default is unexpanding,so you can only see the short description of each post.
   excerpt_link: Read More  
 
 close_aside: false  #close sidebar in post page if true
@@ -67,7 +67,7 @@ author:
   zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
   email:      ## e.g. imjark@gmail.com
   twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
-  github:     ## e.g. wuchong for https://github.com/wuchong
+  github: lishijie233    ## e.g. wuchong for https://github.com/wuchong
   facebook:   ## e.g. imjark for https://facebook.com/imjark
   linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
@@ -83,8 +83,8 @@ toc:
 
 #### Links
 links:
-  世界的时空旅行: https://lishijie233.com,新一代社区
-  space: http://lishijie.me
+  时空旅行: https://lishijie233.com
+  space: http://lishijie233.com
 
 
 
