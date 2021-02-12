@@ -1,10 +1,10 @@
 ##### Menu
 menu:
-  Home: /
-  Archives: /archives
+  首页君: /
+  归档君: /archives
 #  Categories: /categories
 #  Tags: /tags
-  About: /about
+  关于我: /about
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
 ## set `front-matter`as
@@ -60,8 +60,8 @@ creative_commons: none
 author:
   intro_line1:  "Hello ,I'm lishijie,"    ## your introduction on the bottom of the page
   intro_line2:  "Welcome to my blog."  ## the 2nd line
-  weibo: 2176287895     ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
-  weibo_verifier: b3593ceb    ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
+  weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
+  weibo_verifier:     ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
