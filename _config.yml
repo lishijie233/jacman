@@ -2,9 +2,9 @@
 menu:
   首页君: /
   归档君: /archives
-#  Categories: /categories
-#  Tags: /tags
-  关于我: /about
+#  分类君: /categories
+#  标签云: /tags
+#  关于我: /about
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
 ## set `front-matter`as
@@ -84,7 +84,7 @@ toc:
 #### Links
 links:
   时空旅行: https://lishijie233.com
-  space: http://lishijie233.com
+#  space: http://lishijie233.com
 
 
 
